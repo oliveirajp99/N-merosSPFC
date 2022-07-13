@@ -1,0 +1,31 @@
+## Estatísticas 
+
+### Chutes a gol :goal_net:
+
+**São Paulo**: _10_                                                                           **Católica**: _5_   
+
+
+
+### Posse de Bola :soccer:
+
+**São Paulo**: _51%_                                                                           **Católica**:  _49%_
+
+### Passes :footprints:
+
+  **_São Paulo_**: 359                                                                              **_Católica_**: 342
+
+### Cartões Amarelos :soccer: 
+
+**_São Paulo_**: 1                                                                                      **_Católica_**: 2
+
+### Cartões Vermelhos :red_circle:
+
+**_São Paulo_**: 0                                                                                         **_Católica_**: 0
+
+### Impedimentos :black_flag:
+
+**_São Paulo_**: 2                                                                                          **_Católica_**: 1
+
+### Escanteios:white_flag:
+
+**_São Paulo_**: 5                                                                                           **_Católica_**: 6
