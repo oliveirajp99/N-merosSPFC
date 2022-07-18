@@ -1,0 +1,43 @@
+## São Paulo                                X            Fluminense 
+
+
+
+##                                 
+
+#### Campeonato Brasileiro 2022
+
+### Chute: 
+
+**_São Paulo:_** 6                                                                                                    **_Fluminense_**: 15
+
+### Chutes a gol: :goal_net:
+
+**_São Paulo_**:   2                                                                                                     **_Fluminense_**: 3
+
+### Posse de Bola: :soccer:
+
+**_São Paulo_**: 36%                                                                                                 **_Fluminense_**: 64%
+
+### Passes:  :footprints:
+
+**_São Paulo_**: 327                                                                                                    **_Fluminense_**: 578
+
+### Precisão de passe: :stadium:
+
+**_São Paulo_**: 76%                                                                                                   **_Fluminense_**: 86%
+
+### Cartões Amarelos: :full_moon:
+
+**_São Paulo_**: 4                                                                                                            **_Fluminense_**: 2
+
+### Cartões Vermelhos: :red_circle:
+
+**_São Paulo_**: 0                                                                                                             **_Fluminense_**: 0
+
+### Impedimentos: :checkered_flag:
+
+**_São Paulo_**: 5                                                                                                               **_Fluminense_**: 1
+
+### Escanteios: :white_flag:
+
+**_São Paulo_**: 5                                                                                                               **_Fluminense_**: 3
